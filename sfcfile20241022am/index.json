@@ -1,0 +1,1125 @@
+{
+  "lastUpdateDate": "2024-10-22T10:02:00+08:00",
+  "totalRecords": 31,
+  "funds": {
+    "AWN201": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx - Bxnx xlxbxl Exexgxnx xoxax xuxrxnxy",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x - 新x市x本x債x基x",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "Bxnx xlxbxl Exexgxnx xoxax xuxrxnxy",
+      "legalFundNameOnlyChinese": "新x市x本x債x基x",
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "AWN201",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2011-04-12",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 122680742,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BSK264": {
+      "legalFundNameIncludingUmbrella": "CxOx xTx xexixs - csop_test_20241003",
+      "legalFundNameIncludingUmbrellaChinese": "CxOx xTx x列 - csop_test_20241003",
+      "umbrella": "CxOx xTx xexixs",
+      "umbrellaChinese": "CxOx xTx x列",
+      "ceNumberOfUmbrella": "AZJ424",
+      "legalFundNameOnly": "csop_test_20241003",
+      "legalFundNameOnlyChinese": null,
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BSK264",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2024-10-03",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "INDEX_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "CSOP Asset Management Limited",
+      "fundManagerOrIssuerChinese": "南方東英資產管理有限公司",
+      "custodianOrTrusteeName": [
+        "HSBC Institutional Trust Services (Asia) Limited"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "滙豐機構信託服務(亞洲)有限公司"
+      ],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [
+        "09413"
+      ],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "AWN200": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx - Exuxtx xExA",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x - 中x北x基x",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "Exuxtx xExA",
+      "legalFundNameOnlyChinese": "中x北x基x",
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "AWN200",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2011-04-12",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 75118591,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BBQ016": {
+      "legalFundNameIncludingUmbrella": "CxixaxMx xexext Fxnx - CxixaxMx xexext Gxextxr Cxixa Txcxnxlxgx [testing new name]",
+      "legalFundNameIncludingUmbrellaChinese": "華x精x基x - 華x精x大x華x技x金 testing",
+      "umbrella": "CxixaxMx xexext Fxnx",
+      "umbrellaChinese": "華x精x基x",
+      "ceNumberOfUmbrella": "AVL899",
+      "legalFundNameOnly": "CxixaxMx xexext Gxextxr Cxixa Txcxnxlxgx [testing new name]",
+      "legalFundNameOnlyChinese": "華x精x大x華x技x金 testing",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BBQ016",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2013-09-26",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "China Asset Management (Hong Kong) Limited",
+      "fundManagerOrIssuerChinese": "華夏基金(香港)有限公司",
+      "custodianOrTrusteeName": [
+        "BxCx-xrxdxnxixl Txuxtxe Lxmxtxd"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "中x國x英x保x信x有x公x"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 2500000,
+      "dateOfFundSize": "2024-10-14",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BSK265": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx - amundi_test_20241003",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x - amundi_test_20241003",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "amundi_test_20241003",
+      "legalFundNameOnlyChinese": null,
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "BSK265",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2024-10-03",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BFS178": {
+      "legalFundNameIncludingUmbrella": "CxOx xTx xexixs - CxOx xSxI Cxixa A Ixcxuxixn Ixdxx ExF",
+      "legalFundNameIncludingUmbrellaChinese": "CxOx xTx x列 - 南x東x xSxI 中x x x國x通x數xTx",
+      "umbrella": "CxOx xTx xexixs",
+      "umbrellaChinese": "CxOx xTx x列",
+      "ceNumberOfUmbrella": "AZJ424",
+      "legalFundNameOnly": "CxOx xSxI Cxixa A Ixcxuxixn Ixdxx ExF",
+      "legalFundNameOnlyChinese": "南x東x xSxI 中x x x國x通x數xTx",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BFS178",
+      "fundBaseCurrency": "RMB",
+      "sfcAuthorizationDate": "2015-11-23",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "CSOP Asset Management Limited",
+      "fundManagerOrIssuerChinese": "南方東英資產管理有限公司",
+      "custodianOrTrusteeName": [
+        "HSBC Institutional Trust Services (Asia) Limited"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "滙豐機構信託服務(亞洲)有限公司"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [
+        "03149",
+        "83149"
+      ],
+      "fundSize": 13961829,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "AWN202": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx - Cxsx xUx",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x - 歐x貨x市x基x",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "Cxsx xUx",
+      "legalFundNameOnlyChinese": "歐x貨x市x基x",
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "AWN202",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2011-04-12",
+      "isCiesFund": false,
+      "isSfcAuthorizedEsgFund": true,
+      "esgInvestmentTheme": "STN",
+      "esgInvestmentStrategy": "THE",
+      "fundTypes": [
+        "FUNDS_WITH_GUARANTEED_FEATURES",
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 173954392800000,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "AGC783": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "Axuxdx xuxdx",
+      "legalFundNameOnlyChinese": "東x匯x系x基x",
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "AGC783",
+      "fundBaseCurrency": null,
+      "sfcAuthorizationDate": "2001-01-16",
+      "isCiesFund": null,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": null,
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BSK006": {
+      "legalFundNameIncludingUmbrella": "ABC Umbrella Fund - ABC Sub-fund 1",
+      "legalFundNameIncludingUmbrellaChinese": "ABC Umbrella Fund - ABC 傘子基金 1",
+      "umbrella": "ABC Umbrella Fund",
+      "umbrellaChinese": null,
+      "ceNumberOfUmbrella": "BSK005",
+      "legalFundNameOnly": "ABC Sub-fund 1",
+      "legalFundNameOnlyChinese": "ABC 傘子基金 1",
+      "fundDomicile": "CN",
+      "ceNumberOfLegalFund": "BSK006",
+      "fundBaseCurrency": "JPY",
+      "sfcAuthorizationDate": "2024-07-22",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "INDEX_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "AxA Fxnxs Mxnxgxmxnx x.x.",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [],
+      "custodianOrTrusteeNameChinese": [],
+      "fiscalYearEnd": "01-01",
+      "dealingFrequency": "MONTHLY",
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BSK007": {
+      "legalFundNameIncludingUmbrella": "ABC Umbrella Fund - ABC Sub-fund 2",
+      "legalFundNameIncludingUmbrellaChinese": "ABC Umbrella Fund - ABC 傘子基金 2",
+      "umbrella": "ABC Umbrella Fund",
+      "umbrellaChinese": null,
+      "ceNumberOfUmbrella": "BSK005",
+      "legalFundNameOnly": "ABC Sub-fund 2",
+      "legalFundNameOnlyChinese": "ABC 傘子基金 2",
+      "fundDomicile": "CN",
+      "ceNumberOfLegalFund": "BSK007",
+      "fundBaseCurrency": "EUR",
+      "sfcAuthorizationDate": "2024-07-22",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "INDEX_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "AxA Fxnxs Mxnxgxmxnx x.x.",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [],
+      "custodianOrTrusteeNameChinese": [],
+      "fiscalYearEnd": "01-01",
+      "dealingFrequency": "WEEKLY",
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "AVL899": {
+      "legalFundNameIncludingUmbrella": "CxixaxMx xexext Fxnx",
+      "legalFundNameIncludingUmbrellaChinese": "華x精x基x",
+      "umbrella": "CxixaxMx xexext Fxnx",
+      "umbrellaChinese": "華x精x基x",
+      "ceNumberOfUmbrella": "AVL899",
+      "legalFundNameOnly": "CxixaxMx xexext Fxnx",
+      "legalFundNameOnlyChinese": "華x精x基x",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "AVL899",
+      "fundBaseCurrency": null,
+      "sfcAuthorizationDate": "2012-01-04",
+      "isCiesFund": null,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "China Asset Management (Hong Kong) Limited",
+      "fundManagerOrIssuerChinese": "華夏基金(香港)有限公司",
+      "custodianOrTrusteeName": [
+        "BxCx-xrxdxnxixl Txuxtxe Lxmxtxd"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "中x國x英x保x信x有x公x"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": null,
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BBB361": {
+      "legalFundNameIncludingUmbrella": "CxOx xTx xexixs - CxOx xEx xHxNx x8x xTx",
+      "legalFundNameIncludingUmbrellaChinese": "CxOx xTx x列 - 南x東x中x x8x xTx",
+      "umbrella": "CxOx xTx xexixs",
+      "umbrellaChinese": "CxOx xTx x列",
+      "ceNumberOfUmbrella": "AZJ424",
+      "legalFundNameOnly": "CxOx xEx xHxNx x8x xTx",
+      "legalFundNameOnlyChinese": "南x東x中x x8x xTx",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BBB361",
+      "fundBaseCurrency": "RMB",
+      "sfcAuthorizationDate": "2013-09-05",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "CSOP Asset Management Limited",
+      "fundManagerOrIssuerChinese": "南方東英資產管理有限公司",
+      "custodianOrTrusteeName": [
+        "HSBC Institutional Trust Services (Asia) Limited"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "滙豐機構信託服務(亞洲)有限公司"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [
+        "83137",
+        "03137"
+      ],
+      "fundSize": 2749363,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BSK005": {
+      "legalFundNameIncludingUmbrella": "ABC Umbrella Fund",
+      "legalFundNameIncludingUmbrellaChinese": null,
+      "umbrella": "ABC Umbrella Fund",
+      "umbrellaChinese": null,
+      "ceNumberOfUmbrella": "BSK005",
+      "legalFundNameOnly": "ABC Umbrella Fund",
+      "legalFundNameOnlyChinese": null,
+      "fundDomicile": "CN",
+      "ceNumberOfLegalFund": "BSK005",
+      "fundBaseCurrency": null,
+      "sfcAuthorizationDate": "2024-07-22",
+      "isCiesFund": null,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "AxA Fxnxs Mxnxgxmxnx x.x.",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [],
+      "custodianOrTrusteeNameChinese": [],
+      "fiscalYearEnd": "01-01",
+      "dealingFrequency": null,
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "ARG434": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx - CxR Gxoxax xexoxrxex",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x - CxR 環x資x基x",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "CxR Gxoxax xexoxrxex",
+      "legalFundNameOnlyChinese": "CxR 環x資x基x",
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "ARG434",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2008-07-29",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 86051693,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BSH900": {
+      "legalFundNameIncludingUmbrella": "IFP Testing Product (*Testing*) Particulars of exemptions granted by the SFC for shares or debentures offered on or after 1 July 2004 under the releva",
+      "legalFundNameIncludingUmbrellaChinese": "IFP 測試產品 請注意，就非上市股份或債權證而言，本列表所提供的資料只限於在2004年7月1日或之後銷售的產品。",
+      "umbrella": null,
+      "umbrellaChinese": null,
+      "ceNumberOfUmbrella": null,
+      "legalFundNameOnly": "IFP Testing Product (*Testing*) Particulars of exemptions granted by the SFC for shares or debentures offered on or after 1 July 2004 under the releva",
+      "legalFundNameOnlyChinese": "IFP 測試產品 請注意，就非上市股份或債權證而言，本列表所提供的資料只限於在2004年7月1日或之後銷售的產品。",
+      "fundDomicile": "AU",
+      "ceNumberOfLegalFund": "BSH900",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2024-09-30",
+      "isCiesFund": false,
+      "isSfcAuthorizedEsgFund": true,
+      "esgInvestmentTheme": "SOC",
+      "esgInvestmentStrategy": "IIF",
+      "fundTypes": [
+        "FUNDS_INVEST_EXTENSIVELY_IN_FDI",
+        "FUNDS_WITH_GUARANTEED_FEATURES",
+        "HEDGE_FUNDS",
+        "INDEX_FUNDS",
+        "MONEY_MARKET_FUNDS",
+        "STRUCTURED_FUNDS",
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "AxA Fxnxs Mxnxgxmxnx x.x.",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [],
+      "custodianOrTrusteeNameChinese": [],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [
+        "09988"
+      ],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BES300": {
+      "legalFundNameIncludingUmbrella": "CxOx xTx xexixs - CxOx xZxE Cxixext ExF",
+      "legalFundNameIncludingUmbrellaChinese": "CxOx xTx x列 - 南x東x中x創x板x數 ExF",
+      "umbrella": "CxOx xTx xexixs",
+      "umbrellaChinese": "CxOx xTx x列",
+      "ceNumberOfUmbrella": "AZJ424",
+      "legalFundNameOnly": "CxOx xZxE Cxixext ExF",
+      "legalFundNameOnlyChinese": "南x東x中x創x板x數 ExF",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BES300",
+      "fundBaseCurrency": "RMB",
+      "sfcAuthorizationDate": "2015-05-12",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "CSOP Asset Management Limited",
+      "fundManagerOrIssuerChinese": "南方東英資產管理有限公司",
+      "custodianOrTrusteeName": [
+        "HSBC Institutional Trust Services (Asia) Limited"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "滙豐機構信託服務(亞洲)有限公司"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [
+        "03147",
+        "83147"
+      ],
+      "fundSize": 45426807,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BSI833": {
+      "legalFundNameIncludingUmbrella": "English Name of the new single fund",
+      "legalFundNameIncludingUmbrellaChinese": "中文名傘子基金",
+      "umbrella": null,
+      "umbrellaChinese": null,
+      "ceNumberOfUmbrella": null,
+      "legalFundNameOnly": "English Name of the new single fund",
+      "legalFundNameOnlyChinese": "中文名傘子基金",
+      "fundDomicile": "PA",
+      "ceNumberOfLegalFund": "BSI833",
+      "fundBaseCurrency": "AUD",
+      "sfcAuthorizationDate": "2024-02-21",
+      "isCiesFund": false,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "FUNDS_WITH_GUARANTEED_FEATURES",
+        "HEDGE_FUNDS",
+        "INDEX_FUNDS",
+        "MONEY_MARKET_FUNDS",
+        "STRUCTURED_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "AxA Fxnxs Mxnxgxmxnx x.x.",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "LxMxUxIx"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "LxMxUxIx"
+      ],
+      "fiscalYearEnd": "07-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [
+        "05678"
+      ],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BAW607": {
+      "legalFundNameIncludingUmbrella": "CxixaxMx xexext Fxnx - CxixaxMx xexext RxB Sxoxtxtxrx xoxd Fxnx",
+      "legalFundNameIncludingUmbrellaChinese": "華x精x基x - 華x精x人x幣x期x券x金",
+      "umbrella": "CxixaxMx xexext Fxnx",
+      "umbrellaChinese": "華x精x基x",
+      "ceNumberOfUmbrella": "AVL899",
+      "legalFundNameOnly": "CxixaxMx xexext RxB Sxoxtxtxrx xoxd Fxnx",
+      "legalFundNameOnlyChinese": "華x精x人x幣x期x券x金",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BAW607",
+      "fundBaseCurrency": "RMB",
+      "sfcAuthorizationDate": "2013-04-30",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "China Asset Management (Hong Kong) Limited",
+      "fundManagerOrIssuerChinese": "華夏基金(香港)有限公司",
+      "custodianOrTrusteeName": [
+        "BxCx-xrxdxnxixl Txuxtxe Lxmxtxd"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "中x國x英x保x信x有x公x"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 6486633,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "AGC791": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx - Exrx xoxpxrxtx xoxd",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x - 歐x公x債x基x",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "Exrx xoxpxrxtx xoxd",
+      "legalFundNameOnlyChinese": "歐x公x債x基x",
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "AGC791",
+      "fundBaseCurrency": "EUR",
+      "sfcAuthorizationDate": "2001-01-16",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 1004401611,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "AWN198": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx - CxR Gxoxax xixextxlxs",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x - CxRx越x活x金",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "CxR Gxoxax xixextxlxs",
+      "legalFundNameOnlyChinese": "CxRx越x活x金",
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "AWN198",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2011-04-12",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 181322348,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BDT327": {
+      "legalFundNameIncludingUmbrella": "CxOx xTx xexixs - CxOx xSxI Tx0 ExF",
+      "legalFundNameIncludingUmbrellaChinese": "CxOx xTx x列 - 南x東x xSxI Tx0 指x xTx",
+      "umbrella": "CxOx xTx xexixs",
+      "umbrellaChinese": "CxOx xTx x列",
+      "ceNumberOfUmbrella": "AZJ424",
+      "legalFundNameOnly": "CxOx xSxI Tx0 ExF",
+      "legalFundNameOnlyChinese": "南x東x xSxI Tx0 指x xTx",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BDT327",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2015-01-09",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "CSOP Asset Management Limited",
+      "fundManagerOrIssuerChinese": "南方東英資產管理有限公司",
+      "custodianOrTrusteeName": [
+        "HSBC Institutional Trust Services (Asia) Limited"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "滙豐機構信託服務(亞洲)有限公司"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [
+        "03021"
+      ],
+      "fundSize": 5994992,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "AZJ424": {
+      "legalFundNameIncludingUmbrella": "CxOx xTx xexixs",
+      "legalFundNameIncludingUmbrellaChinese": "CxOx xTx x列",
+      "umbrella": "CxOx xTx xexixs",
+      "umbrellaChinese": "CxOx xTx x列",
+      "ceNumberOfUmbrella": "AZJ424",
+      "legalFundNameOnly": "CxOx xTx xexixs",
+      "legalFundNameOnlyChinese": "CxOx xTx x列",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "AZJ424",
+      "fundBaseCurrency": null,
+      "sfcAuthorizationDate": "2012-08-16",
+      "isCiesFund": null,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "CSOP Asset Management Limited",
+      "fundManagerOrIssuerChinese": "南方東英資產管理有限公司",
+      "custodianOrTrusteeName": [
+        "HSBC Institutional Trust Services (Asia) Limited"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "滙豐機構信託服務(亞洲)有限公司"
+      ],
+      "fiscalYearEnd": "03-31",
+      "dealingFrequency": null,
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BFT953": {
+      "legalFundNameIncludingUmbrella": "CxixaxMx xixgxux xixex xexuxixixs Ixvxsxmxnx xuxd",
+      "legalFundNameIncludingUmbrellaChinese": "華x興x混x型x券x資x金",
+      "umbrella": null,
+      "umbrellaChinese": null,
+      "ceNumberOfUmbrella": null,
+      "legalFundNameOnly": "CxixaxMx xixgxux xixex xexuxixixs Ixvxsxmxnx xuxd",
+      "legalFundNameOnlyChinese": "華x興x混x型x券x資x金",
+      "fundDomicile": "CN",
+      "ceNumberOfLegalFund": "BFT953",
+      "fundBaseCurrency": "RMB",
+      "sfcAuthorizationDate": "2015-12-30",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "RECOGNIZED_MAINLAND_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Cxixa Axsxt Mxnxgxmxnx xox, Lxdx",
+      "fundManagerOrIssuerChinese": "華x基x管x有x公x",
+      "custodianOrTrusteeName": [
+        "China Construction Bank Corporation"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "中國建設銀行股份有限公司"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 230360564,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "AZJ425": {
+      "legalFundNameIncludingUmbrella": "CxOx xTx xexixs - CxOx xTxE Cxixa Ax0 ExF",
+      "legalFundNameIncludingUmbrellaChinese": "CxOx xTx x列 - 南x富x中x x5x xTx",
+      "umbrella": "CxOx xTx xexixs",
+      "umbrellaChinese": "CxOx xTx x列",
+      "ceNumberOfUmbrella": "AZJ424",
+      "legalFundNameOnly": "CxOx xTxE Cxixa Ax0 ExF",
+      "legalFundNameOnlyChinese": "南x富x中x x5x xTx",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "AZJ425",
+      "fundBaseCurrency": "RMB",
+      "sfcAuthorizationDate": "2012-08-16",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "LISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "CSOP Asset Management Limited",
+      "fundManagerOrIssuerChinese": "南方東英資產管理有限公司",
+      "custodianOrTrusteeName": [
+        "HSBC Institutional Trust Services (Asia) Limited"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "滙豐機構信託服務(亞洲)有限公司"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [
+        " 02822",
+        "82822"
+      ],
+      "fundSize": 2822995865,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BSJ936": {
+      "legalFundNameIncludingUmbrella": "ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing",
+      "legalFundNameIncludingUmbrellaChinese": "ABC 2024 傘子基金",
+      "umbrella": "ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing",
+      "umbrellaChinese": "ABC 2024 傘子基金",
+      "ceNumberOfUmbrella": "BSJ936",
+      "legalFundNameOnly": "ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing",
+      "legalFundNameOnlyChinese": "ABC 2024 傘子基金",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BSJ936",
+      "fundBaseCurrency": null,
+      "sfcAuthorizationDate": "2024-06-28",
+      "isCiesFund": null,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "AxA Fxnxs Mxnxgxmxnx x.x.",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "TxUxAxIx"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "TxUxAxIx"
+      ],
+      "fiscalYearEnd": "03-31",
+      "dealingFrequency": null,
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BDG861": {
+      "legalFundNameIncludingUmbrella": "CxixaxMx xexext Fxnx - CxixaxMx xexext RxB Dxnxmxc Bxnx xuxd",
+      "legalFundNameIncludingUmbrellaChinese": "華x精x基x - 華x精x人x幣x力x券x金",
+      "umbrella": "CxixaxMx xexext Fxnx",
+      "umbrellaChinese": "華x精x基x",
+      "ceNumberOfUmbrella": "AVL899",
+      "legalFundNameOnly": "CxixaxMx xexext RxB Dxnxmxc Bxnx xuxd",
+      "legalFundNameOnlyChinese": "華x精x人x幣x力x券x金",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BDG861",
+      "fundBaseCurrency": "RMB",
+      "sfcAuthorizationDate": "2014-09-03",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "NON_DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "China Asset Management (Hong Kong) Limited",
+      "fundManagerOrIssuerChinese": "華夏基金(香港)有限公司",
+      "custodianOrTrusteeName": [
+        "BxCx-xrxdxnxixl Txuxtxe Lxmxtxd"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "中x國x英x保x信x有x公x"
+      ],
+      "fiscalYearEnd": "12-01",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 0,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    },
+    "BSJ956": {
+      "legalFundNameIncludingUmbrella": "RF Testing Fund 20240628",
+      "legalFundNameIncludingUmbrellaChinese": null,
+      "umbrella": null,
+      "umbrellaChinese": null,
+      "ceNumberOfUmbrella": null,
+      "legalFundNameOnly": "RF Testing Fund 20240628",
+      "legalFundNameOnlyChinese": null,
+      "fundDomicile": "BE",
+      "ceNumberOfLegalFund": "BSJ956",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2024-06-28",
+      "isCiesFund": false,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "MONEY_MARKET_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Qxixtxr Ixtxrxaxixnxl Ixlx xf Mxn Lxmxtxd blah",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "Qxixtxr Ixtxrxaxixnxl Ixlx xf Mxn Lxmxtxd blah"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "Qxixtxr Ixtxrxaxixnxl Ixlx xf Mxn Lxmxtxd blah"
+      ],
+      "fiscalYearEnd": "10-10",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BSJ938": {
+      "legalFundNameIncludingUmbrella": "ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing - ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing Testing11",
+      "legalFundNameIncludingUmbrellaChinese": "ABC 2024 傘子基金 - 南方東英中國創業板指數 ETF* (*此基金為一隻合成交易所買賣基金)",
+      "umbrella": "ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing",
+      "umbrellaChinese": "ABC 2024 傘子基金",
+      "ceNumberOfUmbrella": "BSJ936",
+      "legalFundNameOnly": "ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing Testing11",
+      "legalFundNameOnlyChinese": "南方東英中國創業板指數 ETF* (*此基金為一隻合成交易所買賣基金)",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BSJ938",
+      "fundBaseCurrency": "EUR",
+      "sfcAuthorizationDate": "2024-06-28",
+      "isCiesFund": false,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HONG_KONG_DOMICILED_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "AxA Fxnxs Mxnxgxmxnx x.x.",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "TxUxAxIx"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "TxUxAxIx"
+      ],
+      "fiscalYearEnd": "03-31",
+      "dealingFrequency": "BI_MONTHLY",
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BSJ937": {
+      "legalFundNameIncludingUmbrella": "ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing - ABC 2024 Sub-fund A",
+      "legalFundNameIncludingUmbrellaChinese": "ABC 2024 傘子基金 - ABC 2024 子基金 A",
+      "umbrella": "ABC 2024 Umbrella Fund Length Testing (* This is length testing 12345678987654321 *) How Long IFP Length Testing How Long IFP Length Testing",
+      "umbrellaChinese": "ABC 2024 傘子基金",
+      "ceNumberOfUmbrella": "BSJ936",
+      "legalFundNameOnly": "ABC 2024 Sub-fund A",
+      "legalFundNameOnlyChinese": "ABC 2024 子基金 A",
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BSJ937",
+      "fundBaseCurrency": "HKD",
+      "sfcAuthorizationDate": "2024-06-28",
+      "isCiesFund": false,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "HEDGE_FUNDS",
+        "HONG_KONG_DOMICILED_FUNDS",
+        "INDEX_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "AxA Fxnxs Mxnxgxmxnx x.x.",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "TxUxAxIx"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "TxUxAxIx"
+      ],
+      "fiscalYearEnd": "03-31",
+      "dealingFrequency": "BI_WEEKLY",
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "BSJ959": {
+      "legalFundNameIncludingUmbrella": "RF Testing Fund 2 Delay",
+      "legalFundNameIncludingUmbrellaChinese": null,
+      "umbrella": null,
+      "umbrellaChinese": null,
+      "ceNumberOfUmbrella": null,
+      "legalFundNameOnly": "RF Testing Fund 2 Delay",
+      "legalFundNameOnlyChinese": null,
+      "fundDomicile": "HK",
+      "ceNumberOfLegalFund": "BSJ959",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2024-06-28",
+      "isCiesFund": false,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "FUNDS_INVEST_EXTENSIVELY_IN_FDI",
+        "HONG_KONG_DOMICILED_FUNDS",
+        "STRUCTURED_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Qxixtxr Ixtxrxaxixnxl Ixlx xf Mxn Lxmxtxd blah",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "Qxixtxr Ixtxrxaxixnxl Ixlx xf Mxn Lxmxtxd blah"
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "Qxixtxr Ixtxrxaxixnxl Ixlx xf Mxn Lxmxtxd blah"
+      ],
+      "fiscalYearEnd": "03-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": null,
+      "dateOfFundSize": null,
+      "fundSizeReportingCcy": null
+    },
+    "AQA227": {
+      "legalFundNameIncludingUmbrella": "Axuxdx xuxdx - Exexgxnx xaxkxtx xqxixy Fxcxs",
+      "legalFundNameIncludingUmbrellaChinese": "東x匯x系x基x - 新x市x內x股x基x",
+      "umbrella": "Axuxdx xuxdx",
+      "umbrellaChinese": "東x匯x系x基x",
+      "ceNumberOfUmbrella": "AGC783",
+      "legalFundNameOnly": "Exexgxnx xaxkxtx xqxixy Fxcxs",
+      "legalFundNameOnlyChinese": "新x市x內x股x基x",
+      "fundDomicile": "LU",
+      "ceNumberOfLegalFund": "AQA227",
+      "fundBaseCurrency": "USD",
+      "sfcAuthorizationDate": "2008-02-14",
+      "isCiesFund": true,
+      "isSfcAuthorizedEsgFund": false,
+      "esgInvestmentTheme": null,
+      "esgInvestmentStrategy": null,
+      "fundTypes": [
+        "DERIVATIVE_FUNDS",
+        "UNLISTED_FUNDS"
+      ],
+      "fundManagerOrIssuer": "Axuxdx xuxexbxuxg SxAx",
+      "fundManagerOrIssuerChinese": null,
+      "custodianOrTrusteeName": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "custodianOrTrusteeNameChinese": [
+        "CxCxIx xaxkx xuxexbxuxg Bxaxcx "
+      ],
+      "fiscalYearEnd": "12-31",
+      "dealingFrequency": "DAILY",
+      "stockCodes": [],
+      "fundSize": 218362528,
+      "dateOfFundSize": "2015-12-31",
+      "fundSizeReportingCcy": "USD"
+    }
+  }
+}
